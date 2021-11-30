@@ -1,0 +1,75 @@
+body {
+    background-color: #2C2F33 !important;
+    width: 1920px !important;
+}
+#titulo1 {
+    color: #FFFFFF;
+    font-family: "Lato";
+    font-size: 40px;
+    line-height: 50px;
+    width: 400px;
+    text-align: center;
+} 
+#div1 {
+    align-items: center;
+    margin-left: 760px;
+    width: 400px;
+    height: 75px;
+}
+#texto1 {
+    color: #FAFCFF;
+    font-family: "Lato";
+    font-size: 18px;
+    line-height: 28px;
+    width: 400px;
+    text-align: left;
+}
+#div2 {
+    align-items: center;
+    margin-left: 760px;
+    width: 400px;
+    height: 75px;
+} 
+#input {
+    background-color: #FFFFFF;
+    border: 1px solid #8492A6;
+    border-radius: 5px;
+    margin-left: 760px;
+}
+#Buscar {
+    background-color: #47525E;
+    border-radius: 5px;
+    width: 100px;
+    margin-top: 30px;
+    align-items: center;
+    color: #FFFFFF;
+    padding: 20px;
+}
+#titulolista {
+    color: #757F8B;
+    font-family: Lato;
+    font-size: 24px;
+    line-height: 34px;
+    width: 400px;
+    text-align: center;
+}
+#lista {
+    float: right;
+}
+#titulolista {
+    margin-top: 100px;
+    color: #757F8B;
+    font-family: "Lato";
+    font-size: 24px;
+    line-height: 34px;
+    width: 400px;
+    text-align: center;
+}
+.listado {
+    color: #FFFFFF;
+    font-size: 14pt;
+    margin-left: 20px;
+} 
+#barranav {
+    margin-top: 625px;
+}
